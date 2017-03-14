@@ -1,0 +1,3 @@
+Program builds a binary search tree from a users input, then gives the user the option to display, display range,
+edit, remove, display the height of a tree. User input is stored in tree based on a hash function, where a key is created and 
+used to place the input evenly throughout the table adt. 
